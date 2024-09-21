@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LifecycleDemo</string>
+    <string name="activity_state_oncreate">Activity State: onCreate</string>
+    <string name="activity_state_onStart">Activity State: onStart</string>
+    <string name="activity_state_onresume">Activity State: onResume</string>
+    <string name="activity_state_onpause">Activity State: onPause</string>
+    <string name="activity_state_onstart">Activity State: onStart</string>
+    <string name="activity_state_onstop">Activity State: onStop</string>
+    <string name="activity_state_onrestart">Activity State: onRestart</string>
+    <string name="activity_state_ondestroy">Activity State: onDestroy</string>
+    <string name="activity_state">Activity State</string>
+
+</resources>
